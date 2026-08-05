@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.2.0",
+      "versionCode": 2000200,
+      "releasedAt": "2026-08-05T05:08:51Z",
+      "notes": {
+        "ko": "메뉴별 세척 프로그램 기능이 추가되었습니다.\n\n- 각 메뉴의 제조 후 세척 과정을 믹싱 단계처럼 직접 설정할 수 있습니다 (메뉴 설정 → 세척 단계).\n- 기본 세척 프로그램은 설정의 정비 섹션에서 수정할 수 있으며, 수동 세척에도 동일하게 적용됩니다.\n- 세척 분사 시간을 메뉴별로 조절할 수 있습니다 (초 단위 입력).\n- 동작 변경: 믹싱 단계에서 한쪽 트랙만 설정된 경우, 이전에는 비어 있는 트랙에 기본 동작이 추가로 실행되었으나 이제는 저장된 내용 그대로만 실행됩니다. 업데이트 후 첫 제조 시 믹싱 동작을 확인해 주세요.",
+        "en": "Added per-menu cleaning programs.\n\n- Each menu's post-brew cleaning can now be configured like mixing steps (menu settings → cleaning steps).\n- The default cleaning program is editable in the Maintenance section of Settings and also drives manual cleaning.\n- Cleaning spray duration is adjustable per menu (entered in seconds).\n- Behavior change: mixing steps with only one authored track no longer run extra default motions on the empty track — they now execute exactly what is authored. Verify mixing behavior on the first brew after updating."
+      }
+    },
+    {
       "versionName": "0.1.0",
       "versionCode": 2000100,
       "releasedAt": "2026-08-04T05:54:02Z",
