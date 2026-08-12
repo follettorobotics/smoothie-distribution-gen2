@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.4.0",
+      "versionCode": 2000400,
+      "releasedAt": "2026-08-12T00:41:41Z",
+      "notes": {
+        "ko": "실제 매장 운영 장비에서 조정한 설정값을 기본값으로 반영했습니다.\n\n- 메뉴·레시피(Eiden Tall 블렌딩 프로그램 포함)와 하드웨어 매핑 기본값을 운영 장비 기준으로 갱신\n- 서브아웃 세척 기본 프로그램: 블레이드 홈 위치 유지 + 분사 25초\n- 신규 설치 시 별도 캘리브레이션 없이 운영 장비와 동일한 동작",
+        "en": "Adopted the settings tuned on a production unit as the new defaults.\n\n- Menu, recipe (including the Eiden Tall blend program) and hardware mapping defaults now match the tuned production machine\n- Serve-out cleaning default: blade stays at home, 25 s spray window\n- Fresh installs behave like the tuned unit without per-unit recalibration"
+      }
+    },
+    {
       "versionName": "0.3.0",
       "versionCode": 2000300,
       "releasedAt": "2026-08-10T03:55:19Z",

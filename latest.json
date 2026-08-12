@@ -1,9 +1,9 @@
 {
-  "versionCode": 2000300,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.3.0/app-release.apk",
-  "sha256": "2a56e855923cdc94e915619b71fb2889db670180934ed96ff646db3761f1dc7a",
+  "versionCode": 2000400,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.4.0/app-release.apk",
+  "sha256": "7eb0451018e583849769f91a2f75bcc709d16f85df47772a06f886e2e3dc016e",
   "minVersionCode": 1,
-  "releaseNotes": "자동 세척과 관리 편의 기능이 추가되었습니다.\n\n- 자동 간단 세척: 설정한 주기(30분~48시간)가 지나면 기기가 한가할 때 자동으로 간단 세척을 실행합니다. 세척 설정 화면에서 켤 수 있으며, 기본은 꺼져 있습니다.\n- 돔(커버) 세척 모드: 관리자 화면에서 돔을 세척 위치로 내리고 다시 원위치로 올릴 수 있습니다.\n- 시작 버튼을 누르면 \"필름이 제거되었나요?\" 확인 창이 먼저 표시됩니다. 하드웨어 설정에서 끌 수 있습니다.\n- 문제 신고에 매장명 입력란이 추가되어 신고가 매장별로 분류됩니다.\n- 부팅 초기화가 중복 실행되지 않도록 안정성이 개선되었습니다.",
-  "releasedAt": "2026-08-10T03:55:19Z"
+  "releaseNotes": "실제 매장 운영 장비에서 조정한 설정값을 기본값으로 반영했습니다.\n\n- 메뉴·레시피(Eiden Tall 블렌딩 프로그램 포함)와 하드웨어 매핑 기본값을 운영 장비 기준으로 갱신\n- 서브아웃 세척 기본 프로그램: 블레이드 홈 위치 유지 + 분사 25초\n- 신규 설치 시 별도 캘리브레이션 없이 운영 장비와 동일한 동작",
+  "releasedAt": "2026-08-12T00:41:41Z"
 }
