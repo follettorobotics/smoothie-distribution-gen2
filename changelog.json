@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.5.0",
+      "versionCode": 2000500,
+      "releasedAt": "2026-08-12T01:37:30Z",
+      "notes": {
+        "ko": "믹싱 단계 편집기에 동작 그래프를 추가했습니다.\n\n- 각 믹싱 단계에 블레이드 이동·회전 속도 그래프 표시 (동일 시간축, 예상 시간 기준)\n- 실제 제조에서 이동 시간을 자동 학습해 그래프 정확도가 점차 향상됩니다 (기술자 메뉴에서 초기화 가능)\n- 그래프는 표시 전용이며 실제 제조 동작에는 영향이 없습니다",
+        "en": "Added motion graphs to the mixing-step editor.\n\n- Each mixing step now shows blade travel and mixer speed on one shared time axis (estimated timings)\n- Move flight times are learned automatically from real brews, improving graph accuracy over time (reset available in the technician menu)\n- Graphs are display-only and never affect the actual brew"
+      }
+    },
+    {
       "versionName": "0.4.0",
       "versionCode": 2000400,
       "releasedAt": "2026-08-12T00:41:41Z",

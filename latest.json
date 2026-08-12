@@ -1,9 +1,9 @@
 {
-  "versionCode": 2000400,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.4.0/app-release.apk",
-  "sha256": "7eb0451018e583849769f91a2f75bcc709d16f85df47772a06f886e2e3dc016e",
+  "versionCode": 2000500,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.5.0/app-release.apk",
+  "sha256": "6c1459e8dc85cfc4423f929bd387a4fe18b3bde72025e829d27cf0afc06b20cc",
   "minVersionCode": 1,
-  "releaseNotes": "실제 매장 운영 장비에서 조정한 설정값을 기본값으로 반영했습니다.\n\n- 메뉴·레시피(Eiden Tall 블렌딩 프로그램 포함)와 하드웨어 매핑 기본값을 운영 장비 기준으로 갱신\n- 서브아웃 세척 기본 프로그램: 블레이드 홈 위치 유지 + 분사 25초\n- 신규 설치 시 별도 캘리브레이션 없이 운영 장비와 동일한 동작",
-  "releasedAt": "2026-08-12T00:41:41Z"
+  "releaseNotes": "믹싱 단계 편집기에 동작 그래프를 추가했습니다.\n\n- 각 믹싱 단계에 블레이드 이동·회전 속도 그래프 표시 (동일 시간축, 예상 시간 기준)\n- 실제 제조에서 이동 시간을 자동 학습해 그래프 정확도가 점차 향상됩니다 (기술자 메뉴에서 초기화 가능)\n- 그래프는 표시 전용이며 실제 제조 동작에는 영향이 없습니다",
+  "releasedAt": "2026-08-12T01:37:30Z"
 }
