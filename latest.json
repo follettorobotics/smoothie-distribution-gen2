@@ -1,9 +1,9 @@
 {
-  "versionCode": 2000500,
-  "versionName": "0.5.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.5.0/app-release.apk",
-  "sha256": "6c1459e8dc85cfc4423f929bd387a4fe18b3bde72025e829d27cf0afc06b20cc",
+  "versionCode": 2000600,
+  "versionName": "0.6.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.6.0/app-release.apk",
+  "sha256": "ec17dacaef860850e76b68842ffed8cb682e36ae7e64bcf5c5c40fa0ee6557c7",
   "minVersionCode": 1,
-  "releaseNotes": "믹싱 단계 편집기에 동작 그래프를 추가했습니다.\n\n- 각 믹싱 단계에 블레이드 이동·회전 속도 그래프 표시 (동일 시간축, 예상 시간 기준)\n- 실제 제조에서 이동 시간을 자동 학습해 그래프 정확도가 점차 향상됩니다 (기술자 메뉴에서 초기화 가능)\n- 그래프는 표시 전용이며 실제 제조 동작에는 영향이 없습니다",
-  "releasedAt": "2026-08-12T01:37:30Z"
+  "releaseNotes": "- 기기 시리얼 번호 설정을 추가했습니다 (기술자 설정). 문제 신고 시 기기 식별에 사용됩니다.\n- 메뉴 QR 내보내기의 코드 밀도를 낮춰 스캔 안정성을 높였습니다.\n- 정전 후 설정 복구의 안정성을 개선했습니다.\n- 믹싱 단계 그래프의 기본 이동 시간 추정을 개선했습니다.",
+  "releasedAt": "2026-08-13T07:56:17Z"
 }
