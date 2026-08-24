@@ -1,9 +1,9 @@
 {
-  "versionCode": 2000600,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.6.0/app-release.apk",
-  "sha256": "ec17dacaef860850e76b68842ffed8cb682e36ae7e64bcf5c5c40fa0ee6557c7",
+  "versionCode": 2000700,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.7.0/app-release.apk",
+  "sha256": "5e54ff51f272ea63e0ca227a3ea9534d2a07b019e824a93bf792435c1688a1b5",
   "minVersionCode": 1,
-  "releaseNotes": "- 기기 시리얼 번호 설정을 추가했습니다 (기술자 설정). 문제 신고 시 기기 식별에 사용됩니다.\n- 메뉴 QR 내보내기의 코드 밀도를 낮춰 스캔 안정성을 높였습니다.\n- 정전 후 설정 복구의 안정성을 개선했습니다.\n- 믹싱 단계 그래프의 기본 이동 시간 추정을 개선했습니다.",
-  "releasedAt": "2026-08-13T07:56:17Z"
+  "releaseNotes": "- 기기 라이선스(서비스 등록) 도입: 설정의 서비스 등록 메뉴에서 QR로 기기를 등록·갱신합니다. 미등록 기기의 판매 잠금은 2026-10-01 또는 이 버전으로 업데이트한 날 + 30일 중 늦은 시점부터 적용되며, 그 전까지는 안내만 표시됩니다. 신규 설치 기기는 설치(커미셔닝) 시 등록이 필요합니다. 잠금 중에도 세척·설정·업데이트는 정상 동작합니다.\n- Y축 하강 한계가 Y + 블레이드 합산 기준으로 변경되었습니다. 업데이트 후 반드시 입력범위설정을 확인하세요 — yMaxDown을 340 미만으로 낮춰 둔 기기는 믹싱 하강이 잘릴 수 있습니다.\n- 대기(잠금) 화면의 등록 QR을 제거했습니다. QR은 비밀번호 입력 후 서비스 등록 화면에서만 표시됩니다.",
+  "releasedAt": "2026-08-24T02:19:49Z"
 }
