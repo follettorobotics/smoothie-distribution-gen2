@@ -1,9 +1,9 @@
 {
-  "versionCode": 2000700,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.7.0/app-release.apk",
-  "sha256": "5e54ff51f272ea63e0ca227a3ea9534d2a07b019e824a93bf792435c1688a1b5",
+  "versionCode": 2000800,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.8.0/app-release.apk",
+  "sha256": "6fcc9395040f1f21108190a52c0eb421c4cf768a47fa40b8b628b94025a69344",
   "minVersionCode": 1,
-  "releaseNotes": "- 기기 라이선스(서비스 등록) 도입: 설정의 서비스 등록 메뉴에서 QR로 기기를 등록·갱신합니다. 미등록 기기의 판매 잠금은 2026-10-01 또는 이 버전으로 업데이트한 날 + 30일 중 늦은 시점부터 적용되며, 그 전까지는 안내만 표시됩니다. 신규 설치 기기는 설치(커미셔닝) 시 등록이 필요합니다. 잠금 중에도 세척·설정·업데이트는 정상 동작합니다.\n- Y축 하강 한계가 Y + 블레이드 합산 기준으로 변경되었습니다. 업데이트 후 반드시 입력범위설정을 확인하세요 — yMaxDown을 340 미만으로 낮춰 둔 기기는 믹싱 하강이 잘릴 수 있습니다.\n- 대기(잠금) 화면의 등록 QR을 제거했습니다. QR은 비밀번호 입력 후 서비스 등록 화면에서만 표시됩니다.",
-  "releasedAt": "2026-08-24T02:19:49Z"
+  "releaseNotes": "- 제조 시작 버튼을 빠르게 여러 번 눌러도 제조가 한 번만 시작되도록 수정했습니다 (중복 시작으로 인한 오류 방지)\n- 전체 세척 프로그램 편집 화면에서 저장이 잠기던 문제를 수정했습니다\n- 기기 시리얼 번호가 한 번에 저장되지 않던 문제를 수정했습니다\n- 메뉴 QR 읽는 중 화면에 수신된 글자 수가 실시간으로 표시됩니다",
+  "releasedAt": "2026-08-24T04:36:48Z"
 }

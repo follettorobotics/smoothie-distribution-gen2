@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.8.0",
+      "versionCode": 2000800,
+      "releasedAt": "2026-08-24T04:36:48Z",
+      "notes": {
+        "ko": "- 제조 시작 버튼을 빠르게 여러 번 눌러도 제조가 한 번만 시작되도록 수정했습니다 (중복 시작으로 인한 오류 방지)\n- 전체 세척 프로그램 편집 화면에서 저장이 잠기던 문제를 수정했습니다\n- 기기 시리얼 번호가 한 번에 저장되지 않던 문제를 수정했습니다\n- 메뉴 QR 읽는 중 화면에 수신된 글자 수가 실시간으로 표시됩니다",
+        "en": "- Rapid taps of the start button no longer launch duplicate brews (prevents errors from double starts)\n- Fixed the full-cleaning program editor refusing to save\n- Fixed the machine serial number needing several attempts to save\n- The menu QR reading screen now shows a live received-character count"
+      }
+    },
+    {
       "versionName": "0.7.0",
       "versionCode": 2000700,
       "releasedAt": "2026-08-24T02:19:49Z",
