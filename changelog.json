@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.9.0",
+      "versionCode": 2000900,
+      "releasedAt": "2026-09-07T02:29:22Z",
+      "notes": {
+        "ko": "- 설정 QR 전송: 세척 설정을 QR로 내보내 다른 키오스크에 바로 적용할 수 있습니다.\n- 세척 설정(자동 세척 주기)이 하드웨어 포트 화면의 '세척 설정' 카드로 이동했습니다.\n- 이상 상황 자동 보고: 설정 초기화, DB 손실, 통신 두절, 업데이트 실패, 앱 비정상 종료 시 로그가 자동 업로드됩니다.\n- Y·칼날 하강 한계가 기기별로 고정되어 앱 업데이트로 바뀌지 않습니다.\n- 제어보드 펌웨어 업데이트 및 하드웨어 자가 테스트 화면이 추가되었습니다.",
+        "en": "- Settings QR transfer: export rinse settings as a QR and apply them on another kiosk.\n- Rinse settings (auto-rinse schedule) moved to a \"Rinse settings\" card on the hardware-port screen.\n- Anomaly auto-report: settings wipe, DB loss, comms outage, update failure and app crash now upload logs automatically.\n- Y and blade descent ceilings are pinned per machine and no longer change with an app update.\n- Control-board firmware update and hardware self-test screens added."
+      }
+    },
+    {
       "versionName": "0.8.0",
       "versionCode": 2000800,
       "releasedAt": "2026-08-24T04:36:48Z",
