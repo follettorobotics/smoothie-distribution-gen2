@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.10.0",
+      "versionCode": 2001000,
+      "releasedAt": "2026-09-07T09:17:41Z",
+      "notes": {
+        "ko": "- 설정 화면 개편: 왼쪽 카테고리 목록(현황·화면·언어·미디어·상품·운영·정비·시스템)과 전체 화면 설정 페이지로 바뀌었습니다. 기술자 항목은 기존처럼 정보 화면 5회 터치로 열립니다.\n- 컵 필름 감지 또는 문 걸림 시 트레이가 되돌아오기 전에 안내 화면이 바로 표시되고 알림음이 울립니다. 버튼은 트레이 복귀 후 나타납니다.\n- 컵 필름 재시도 후 트레이 위치가 조금씩 어긋나 혼합 위치가 맞지 않던 문제를 수정했습니다.",
+        "en": "- Settings redesign: a left category rail (Status, Display, Language, Media, Products, Operation, Maintenance, System) with full-screen setting pages. Technician items still unlock with 5 taps on the About screen.\n- On cup-film or door-blocked detection the guidance screen and alert sound now appear immediately, before the tray returns; the button appears once the tray is back out.\n- Fixed the tray drifting a few steps after each cup-film retry, which left the mixing position misaligned."
+      }
+    },
+    {
       "versionName": "0.9.0",
       "versionCode": 2000900,
       "releasedAt": "2026-09-07T02:29:22Z",
