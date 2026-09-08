@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.11.0",
+      "versionCode": 2001100,
+      "releasedAt": "2026-09-08T00:17:59Z",
+      "notes": {
+        "ko": "- 점주 설정의 수동 제어 버튼(문 열기·닫기, 전면 패널, 돔 세척 실행·정위치, 하부레일 뒤로가기·정위치)이 큰 아이콘 타일 격자로 바뀌어 더 쉽게 누를 수 있습니다. 동작 중에는 타일이 흐려집니다.",
+        "en": "- The manager settings manual-control buttons (door open/close, front panel, dome clean/home, lower-rail back/standby) are now a grid of large icon tiles that are easier to tap. Tiles dim while an action is running."
+      }
+    },
+    {
       "versionName": "0.10.0",
       "versionCode": 2001000,
       "releasedAt": "2026-09-07T09:17:41Z",

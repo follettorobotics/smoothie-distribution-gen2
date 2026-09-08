@@ -1,9 +1,9 @@
 {
-  "versionCode": 2001000,
-  "versionName": "0.10.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.10.0/app-release.apk",
-  "sha256": "16fc0289ff344d5dbf80b251dca363c28920da682c3b359be9fd71ccf594c41b",
-  "minVersionCode": 2001000,
-  "releaseNotes": "- 설정 화면 개편: 왼쪽 카테고리 목록(현황·화면·언어·미디어·상품·운영·정비·시스템)과 전체 화면 설정 페이지로 바뀌었습니다. 기술자 항목은 기존처럼 정보 화면 5회 터치로 열립니다.\n- 컵 필름 감지 또는 문 걸림 시 트레이가 되돌아오기 전에 안내 화면이 바로 표시되고 알림음이 울립니다. 버튼은 트레이 복귀 후 나타납니다.\n- 컵 필름 재시도 후 트레이 위치가 조금씩 어긋나 혼합 위치가 맞지 않던 문제를 수정했습니다.",
-  "releasedAt": "2026-09-07T09:17:41Z"
+  "versionCode": 2001100,
+  "versionName": "0.11.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.11.0/app-release.apk",
+  "sha256": "6c9a7a3f68c70e7927409d39524743cbfdb9a42210ce06d15e3c56aff8a3b9df",
+  "minVersionCode": 1,
+  "releaseNotes": "- 점주 설정의 수동 제어 버튼(문 열기·닫기, 전면 패널, 돔 세척 실행·정위치, 하부레일 뒤로가기·정위치)이 큰 아이콘 타일 격자로 바뀌어 더 쉽게 누를 수 있습니다. 동작 중에는 타일이 흐려집니다.",
+  "releasedAt": "2026-09-08T00:17:59Z"
 }
