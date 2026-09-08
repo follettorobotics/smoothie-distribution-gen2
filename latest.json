@@ -1,9 +1,9 @@
 {
-  "versionCode": 2001200,
-  "versionName": "0.12.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.12.0/app-release.apk",
-  "sha256": "dd690c3a5d1843dfacbb487b1a3a3fdeab1eef395860b7764ba4a156461655e1",
+  "versionCode": 2001300,
+  "versionName": "0.13.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.13.0/app-release.apk",
+  "sha256": "fb2313669e0fd1d71b2c14634ed65631314295f786f1516dffebc3077df420c8",
   "minVersionCode": 1,
-  "releaseNotes": "- 기술자 설정 > 시스템에 '설정 백업 내보내기 / 가져오기'가 추가되었습니다. 레시피, 기능 매핑, 포트, 환경설정, 입력범위, 광고 미디어를 백업 파일 하나로 저장하고 다른 태블릿에서 그대로 복원할 수 있습니다 (태블릿 교체용). 비밀번호·기기 시리얼·매장명·USB 연결 키·라이선스는 각 기기 것이 유지됩니다.",
-  "releasedAt": "2026-09-08T01:40:08Z"
+  "releaseNotes": "- 믹싱 중 블레이드 속도 단계(예: 9000 → 12000 → 15000 → 18000 rpm)가 블레이드 암이 내려가는 동안 바뀌지 않고 마지막 단계로만 건너뛰던 문제를 수정했습니다. 이제 각 속도 단계가 설정한 시간에 맞춰 적용됩니다.\n- 긴 하강 동작(약 40초 이상)이 있는 레시피에서 매 제조마다 약 9초의 불필요한 대기가 생기던 문제를 수정했습니다.",
+  "releasedAt": "2026-09-08T05:30:36Z"
 }

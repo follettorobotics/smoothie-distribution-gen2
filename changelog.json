@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.13.0",
+      "versionCode": 2001300,
+      "releasedAt": "2026-09-08T05:30:36Z",
+      "notes": {
+        "ko": "- 믹싱 중 블레이드 속도 단계(예: 9000 → 12000 → 15000 → 18000 rpm)가 블레이드 암이 내려가는 동안 바뀌지 않고 마지막 단계로만 건너뛰던 문제를 수정했습니다. 이제 각 속도 단계가 설정한 시간에 맞춰 적용됩니다.\n- 긴 하강 동작(약 40초 이상)이 있는 레시피에서 매 제조마다 약 9초의 불필요한 대기가 생기던 문제를 수정했습니다.",
+        "en": "- Fixed mixing blade speed steps (e.g. 9000 → 12000 → 15000 → 18000 rpm) not changing while the blade arm is descending and skipping straight to the last step. Each speed step now applies at its scheduled time.\n- Fixed an unnecessary ~9 s wait on every cycle for recipes with a long descent (about 40 s or more)."
+      }
+    },
+    {
       "versionName": "0.12.0",
       "versionCode": 2001200,
       "releasedAt": "2026-09-08T01:40:08Z",
