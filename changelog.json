@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.14.0",
+      "versionCode": 2001400,
+      "releasedAt": "2026-09-08T05:58:03Z",
+      "notes": {
+        "ko": "주문 내역에 믹싱 내역 버튼을 추가했습니다.\n각 주문에서 실제로 실행된 블레이드 이동과 믹서 속도를 기록 기반 그래프로 확인할 수 있습니다.",
+        "en": "Added a mix history button to order history.\nShows the blade travel and mixer speed that actually ran for each order, drawn from the recorded log."
+      }
+    },
+    {
       "versionName": "0.13.0",
       "versionCode": 2001300,
       "releasedAt": "2026-09-08T05:30:36Z",

@@ -1,9 +1,9 @@
 {
-  "versionCode": 2001300,
-  "versionName": "0.13.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.13.0/app-release.apk",
-  "sha256": "fb2313669e0fd1d71b2c14634ed65631314295f786f1516dffebc3077df420c8",
+  "versionCode": 2001400,
+  "versionName": "0.14.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.14.0/app-release.apk",
+  "sha256": "fa79ff1bf9b8e5531a69e8ac5787fda30fa9199a31e5a6bc0b534aa5daf7d63b",
   "minVersionCode": 1,
-  "releaseNotes": "- 믹싱 중 블레이드 속도 단계(예: 9000 → 12000 → 15000 → 18000 rpm)가 블레이드 암이 내려가는 동안 바뀌지 않고 마지막 단계로만 건너뛰던 문제를 수정했습니다. 이제 각 속도 단계가 설정한 시간에 맞춰 적용됩니다.\n- 긴 하강 동작(약 40초 이상)이 있는 레시피에서 매 제조마다 약 9초의 불필요한 대기가 생기던 문제를 수정했습니다.",
-  "releasedAt": "2026-09-08T05:30:36Z"
+  "releaseNotes": "주문 내역에 믹싱 내역 버튼을 추가했습니다.\n각 주문에서 실제로 실행된 블레이드 이동과 믹서 속도를 기록 기반 그래프로 확인할 수 있습니다.",
+  "releasedAt": "2026-09-08T05:58:03Z"
 }
