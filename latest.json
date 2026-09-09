@@ -1,9 +1,9 @@
 {
-  "versionCode": 2001500,
-  "versionName": "0.15.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.15.0/app-release.apk",
-  "sha256": "e74a83566e0f9316d7b1b05d8f9b6fbca1418c8ce8919e44bd6928d4d868819c",
-  "minVersionCode": 2001500,
-  "releaseNotes": "- 전체 세척(세제 세척)이 제품 제조와 같은 순서로 동작합니다. 시작 시 문이 열리며 트레이가 앞으로 나오고, 세척 시작 시 제조와 동일하게 트레이가 들어간 뒤 문이 닫힙니다.\n- 세척 후 헹굼은 제품 제조 후 헹굼처럼 문이 열리고 트레이가 앞에 나온 상태에서 진행된 뒤 트레이가 복귀합니다. 수동 간단 세척과 자동 헹굼도 같은 방식으로 동작합니다.\n- 새 라이선스 발급 서버(플랫폼)에서 발급한 라이선스도 인식합니다.",
-  "releasedAt": "2026-09-09T06:39:20Z"
+  "versionCode": 2001600,
+  "versionName": "0.16.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.16.0/app-release.apk",
+  "sha256": "b2f26a35b14eb49c1c4ef36ec7c46d8193a04826dfda182a464c26e59e121dac",
+  "minVersionCode": 1,
+  "releaseNotes": "- 점주 설정의 수동 제어 섹션이 테마 위로 올라왔습니다.\n- '전면 패널 열기'가 '전면 커버 열기'로 바뀌고, 첫 번째 버튼으로 크게 표시됩니다. 문 열기/닫기 아이콘도 위아래로 여닫는 모양으로 바뀌었습니다.\n- 수동 제어 버튼을 누르면 실행 전에 확인 창이 뜹니다.\n- 주문 내역에 상태 필터(완료 / 실패 / 미완료)가 추가되었습니다.",
+  "releasedAt": "2026-09-09T09:35:24Z"
 }

@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.16.0",
+      "versionCode": 2001600,
+      "releasedAt": "2026-09-09T09:35:24Z",
+      "notes": {
+        "ko": "- 점주 설정의 수동 제어 섹션이 테마 위로 올라왔습니다.\n- '전면 패널 열기'가 '전면 커버 열기'로 바뀌고, 첫 번째 버튼으로 크게 표시됩니다. 문 열기/닫기 아이콘도 위아래로 여닫는 모양으로 바뀌었습니다.\n- 수동 제어 버튼을 누르면 실행 전에 확인 창이 뜹니다.\n- 주문 내역에 상태 필터(완료 / 실패 / 미완료)가 추가되었습니다.",
+        "en": "- Manager settings: the manual-control section now sits above Theme.\n- The front-cover button (전면 커버 열기) comes first and larger; the door open/close icons now show the up/down motion.\n- Every manual-control button asks for confirmation before running.\n- Order history gained a status filter (completed / failed / incomplete)."
+      }
+    },
+    {
       "versionName": "0.15.0",
       "versionCode": 2001500,
       "releasedAt": "2026-09-09T06:39:20Z",
