@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.15.0",
+      "versionCode": 2001500,
+      "releasedAt": "2026-09-09T06:39:20Z",
+      "notes": {
+        "ko": "- 전체 세척(세제 세척)이 제품 제조와 같은 순서로 동작합니다. 시작 시 문이 열리며 트레이가 앞으로 나오고, 세척 시작 시 제조와 동일하게 트레이가 들어간 뒤 문이 닫힙니다.\n- 세척 후 헹굼은 제품 제조 후 헹굼처럼 문이 열리고 트레이가 앞에 나온 상태에서 진행된 뒤 트레이가 복귀합니다. 수동 간단 세척과 자동 헹굼도 같은 방식으로 동작합니다.\n- 새 라이선스 발급 서버(플랫폼)에서 발급한 라이선스도 인식합니다.",
+        "en": "- Full cleaning (detergent) now runs in the same order as making a drink: the door opens and the tray comes out at Start; on Start cleaning the tray goes in and the door closes, exactly like a brew.\n- The rinse afterwards runs with the door open and the tray out, like the post-drink rinse, then the tray returns. The manual quick rinse and the automatic rinse now work the same way.\n- Licenses issued by the new licensing platform are now accepted."
+      }
+    },
+    {
       "versionName": "0.14.0",
       "versionCode": 2001400,
       "releasedAt": "2026-09-08T05:58:03Z",
