@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.20.0",
+      "versionCode": 2002000,
+      "releasedAt": "2026-09-10T06:59:26Z",
+      "notes": {
+        "ko": "- 전체 세척: 세척이 끝나면 버튼을 누르지 않아도 헹굼이 바로 이어집니다. 컵을 꺼내면 트레이가 들어가고 문이 자동으로 닫힙니다.\n- 서버 연동 기능이 포함되었습니다(설정 → 기술자 메뉴 → 서버 설정). 서버를 설정하기 전까지는 기존과 동일하게 동작합니다.\n- 영업 시간: 자정을 넘기는 영업 시간(예: 20:00~02:00)이 올바르게 적용되고, 영업 시간 외에는 스캔이 접수되지 않습니다.\n- 이 버전으로 업데이트한 뒤에는 0.19.1 이하로 되돌릴 수 없습니다.",
+        "en": "- Full cleaning: the rinse now follows the detergent cycle on its own, no button press. Lift the cup and the tray retracts and the door closes by itself.\n- Server integration is included (Settings → technician menu → Server). Until a server is configured the kiosk behaves exactly as before.\n- Business hours: overnight windows (e.g. 20:00–02:00) now apply correctly, and scans are not accepted outside business hours.\n- After updating to this version, rolling back to 0.19.1 or earlier is not possible."
+      }
+    },
+    {
       "versionName": "0.19.1",
       "versionCode": 2001901,
       "releasedAt": "2026-09-10T03:16:01Z",
