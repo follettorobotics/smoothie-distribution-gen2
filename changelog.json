@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.17.0",
+      "versionCode": 2001700,
+      "releasedAt": "2026-09-10T01:30:34Z",
+      "notes": {
+        "ko": "- 점주 설정 수동 제어에서 gen2 기기에 불필요한 버튼 4개(돔 세척 모드 실행/정위치, 하부레일 뒤로가기/정위치)를 제거했습니다. 전면 커버 열기와 문 열기/닫기만 남습니다.",
+        "en": "- Manager settings, manual control: removed the four tiles gen2 machines do not need (dome clean-mode run/home, lower-rail back/home). Only Open front cover and Door open/close remain."
+      }
+    },
+    {
       "versionName": "0.16.0",
       "versionCode": 2001600,
       "releasedAt": "2026-09-09T09:35:24Z",
