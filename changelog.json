@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.18.0",
+      "versionCode": 2001800,
+      "releasedAt": "2026-09-10T01:54:34Z",
+      "notes": {
+        "ko": "- 점주 설정 수동 제어의 '전면 커버 열기' 버튼에 커버가 열린 기기 사진을 넣어 어떤 동작인지 바로 알 수 있게 했습니다.\n- 문 열기/닫기 버튼 이름을 '문 슬라이드 위로 열기' / '문 슬라이드 아래로 닫기'로 바꿨습니다.",
+        "en": "- Manager settings, manual control: the Open front cover tile now shows a photo of the machine with its cover open, so the action is obvious at a glance.\n- Door tiles renamed to \"Slide door up (open)\" / \"Slide door down (close)\"."
+      }
+    },
+    {
       "versionName": "0.17.0",
       "versionCode": 2001700,
       "releasedAt": "2026-09-10T01:30:34Z",
