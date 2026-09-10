@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.19.0",
+      "versionCode": 2001900,
+      "releasedAt": "2026-09-10T02:43:07Z",
+      "notes": {
+        "ko": "- 설정 화면 글씨가 전체적으로 커졌습니다. 점주 설정·관리자 설정과 모든 하위 화면에 적용되며, 섹션 제목과 항목 설명 글씨는 추가로 더 키웠습니다. 주문 화면은 그대로입니다.",
+        "en": "- Settings text is larger across the board: every owner/admin settings screen gets a 20% boost, and section headers and item captions are raised further. Customer screens are unchanged."
+      }
+    },
+    {
       "versionName": "0.18.0",
       "versionCode": 2001800,
       "releasedAt": "2026-09-10T01:54:34Z",
