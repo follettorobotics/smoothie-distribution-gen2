@@ -1,9 +1,9 @@
 {
-  "versionCode": 2001900,
-  "versionName": "0.19.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.19.0/app-release.apk",
-  "sha256": "14ec72b41db86d9695a5b93fca263b1ea497f80d9319bb750dee897a50f04073",
+  "versionCode": 2001901,
+  "versionName": "0.19.1",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.19.1/app-release.apk",
+  "sha256": "fe2dbbbdc0e8f1eb71ef75c102a419763ff3bde3f9b0b8ad47725ff92d13d8fb",
   "minVersionCode": 1,
-  "releaseNotes": "- 설정 화면 글씨가 전체적으로 커졌습니다. 점주 설정·관리자 설정과 모든 하위 화면에 적용되며, 섹션 제목과 항목 설명 글씨는 추가로 더 키웠습니다. 주문 화면은 그대로입니다.",
-  "releasedAt": "2026-09-10T02:43:07Z"
+  "releaseNotes": "- 수동 제어 버튼 설명에서 두 번째 문장을 줄을 바꿔 표시합니다.",
+  "releasedAt": "2026-09-10T03:16:01Z"
 }

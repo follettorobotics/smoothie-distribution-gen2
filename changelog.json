@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.19.1",
+      "versionCode": 2001901,
+      "releasedAt": "2026-09-10T03:16:01Z",
+      "notes": {
+        "ko": "- 수동 제어 버튼 설명에서 두 번째 문장을 줄을 바꿔 표시합니다.",
+        "en": "- Manual-control tile descriptions show their second sentence on its own line."
+      }
+    },
+    {
       "versionName": "0.19.0",
       "versionCode": 2001900,
       "releasedAt": "2026-09-10T02:43:07Z",
