@@ -1,9 +1,9 @@
 {
-  "versionCode": 2002001,
-  "versionName": "0.20.1",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.20.1/app-release.apk",
-  "sha256": "5b8187d71ee698014ab8688339d18c27c7e164b6e1f19b5ba477360213f028c1",
+  "versionCode": 2002002,
+  "versionName": "0.20.2",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.20.2/app-release.apk",
+  "sha256": "c9bbb758c209ae981bf13c69bc26664b922916c91eefe8a5da6c37168f1e4992",
   "minVersionCode": 1,
-  "releaseNotes": "- 앱 시작 직후 드물게 앱이 종료되던 문제를 수정했습니다.\n- 서버 설정(설정 → 기술자 메뉴)에 장치 인증서 가져오기가 추가되었습니다. 서버를 설정하기 전까지는 기존과 동일하게 동작합니다.",
-  "releasedAt": "2026-09-11T02:36:36Z"
+  "releaseNotes": "안내 문구를 읽기 쉽게 정리했습니다.\n- 청소 모드 안내(문 열림, 컵 넣기·꺼내기)가 한 문장씩 줄바꿈되어 표시됩니다.\n- 버튼과 상태 문구에서 줄표(—)로 이어 붙이던 문장을 줄바꿈으로 나눴습니다.\n- 관리자 설정의 상태·안내 문구도 같은 방식으로 정리했습니다.",
+  "releasedAt": "2026-09-11T09:07:00Z"
 }

@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.20.2",
+      "versionCode": 2002002,
+      "releasedAt": "2026-09-11T09:07:00Z",
+      "notes": {
+        "ko": "안내 문구를 읽기 쉽게 정리했습니다.\n- 청소 모드 안내(문 열림, 컵 넣기·꺼내기)가 한 문장씩 줄바꿈되어 표시됩니다.\n- 버튼과 상태 문구에서 줄표(—)로 이어 붙이던 문장을 줄바꿈으로 나눴습니다.\n- 관리자 설정의 상태·안내 문구도 같은 방식으로 정리했습니다.",
+        "en": "Cleaner on-screen wording.\n- Cleaning-mode prompts (door opening, cup in / cup out) now show one sentence per line.\n- Buttons and status lines no longer join sentences with a dash; each part is on its own line.\n- Admin settings status and hint lines follow the same layout."
+      }
+    },
+    {
       "versionName": "0.20.1",
       "versionCode": 2002001,
       "releasedAt": "2026-09-11T02:36:36Z",
