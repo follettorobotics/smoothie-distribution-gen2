@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.20.1",
+      "versionCode": 2002001,
+      "releasedAt": "2026-09-11T02:36:36Z",
+      "notes": {
+        "ko": "- 앱 시작 직후 드물게 앱이 종료되던 문제를 수정했습니다.\n- 서버 설정(설정 → 기술자 메뉴)에 장치 인증서 가져오기가 추가되었습니다. 서버를 설정하기 전까지는 기존과 동일하게 동작합니다.",
+        "en": "- Fixed a rare app exit right after start-up.\n- Server settings (Settings → technician menu) gained device certificate import. Until a server is configured the kiosk behaves exactly as before."
+      }
+    },
+    {
       "versionName": "0.20.0",
       "versionCode": 2002000,
       "releasedAt": "2026-09-10T06:59:26Z",

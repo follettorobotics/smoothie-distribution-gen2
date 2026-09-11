@@ -1,9 +1,9 @@
 {
-  "versionCode": 2002000,
-  "versionName": "0.20.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.20.0/app-release.apk",
-  "sha256": "7fd3dd2893fc8ab4b5e11dc84fb0692b0501a08202e7eff468a4598b9fedb7b0",
+  "versionCode": 2002001,
+  "versionName": "0.20.1",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.20.1/app-release.apk",
+  "sha256": "5b8187d71ee698014ab8688339d18c27c7e164b6e1f19b5ba477360213f028c1",
   "minVersionCode": 1,
-  "releaseNotes": "- 전체 세척: 세척이 끝나면 버튼을 누르지 않아도 헹굼이 바로 이어집니다. 컵을 꺼내면 트레이가 들어가고 문이 자동으로 닫힙니다.\n- 서버 연동 기능이 포함되었습니다(설정 → 기술자 메뉴 → 서버 설정). 서버를 설정하기 전까지는 기존과 동일하게 동작합니다.\n- 영업 시간: 자정을 넘기는 영업 시간(예: 20:00~02:00)이 올바르게 적용되고, 영업 시간 외에는 스캔이 접수되지 않습니다.\n- 이 버전으로 업데이트한 뒤에는 0.19.1 이하로 되돌릴 수 없습니다.",
-  "releasedAt": "2026-09-10T06:59:26Z"
+  "releaseNotes": "- 앱 시작 직후 드물게 앱이 종료되던 문제를 수정했습니다.\n- 서버 설정(설정 → 기술자 메뉴)에 장치 인증서 가져오기가 추가되었습니다. 서버를 설정하기 전까지는 기존과 동일하게 동작합니다.",
+  "releasedAt": "2026-09-11T02:36:36Z"
 }
