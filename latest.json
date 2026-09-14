@@ -1,9 +1,9 @@
 {
-  "versionCode": 2002200,
-  "versionName": "0.22.0",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.22.0/app-release.apk",
-  "sha256": "84eca5b26e80c1361669aca51ce4d2ede46e9d20359bf5d4ccd625f770cefd49",
+  "versionCode": 2002300,
+  "versionName": "0.23.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.23.0/app-release.apk",
+  "sha256": "d2471d4c8015cc122c32b709e9cac11fa99291559688173d67c5ca9843e6b8bb",
   "minVersionCode": 1,
-  "releaseNotes": "간단 자동 세척과 자동 헹굼의 트레이 위치를 따로 설정할 수 있습니다.\n- 하드웨어 설정에 'X축 세척 위치(수동 세척)' 항목이 추가되었습니다. 제품 제공 후 세척과 같은 위치에서 헹굼이 되도록 기사가 기기별로 맞춥니다.\n- 업데이트 직후에는 기존과 같은 위치에서 헹굼하며, 값을 맞춘 뒤부터 새 위치가 적용됩니다.",
-  "releasedAt": "2026-09-14T07:19:24Z"
+  "releaseNotes": "'빠른 세척 설정' 화면이 추가되었습니다.\n- 설정 > 정비의 '기본 세척 프로그램' 항목이 '빠른 세척 설정'으로 바뀌었고, 간단 자동 세척 화면의 '세척 실행' 옆 톱니 버튼으로도 열 수 있습니다.\n- Y축 세척 위치, 트레이 세척 위치, 세척 시간(초)을 한 화면에서 바로 설정합니다. 값은 입력 즉시 저장됩니다.\n- 세척 단계를 직접 편집하려면 '고급 편집'을 누르세요. 고급 편집으로 바꾼 프로그램은 '단순 설정으로 되돌리기'로 기본 형태로 되돌릴 수 있습니다.",
+  "releasedAt": "2026-09-14T07:45:54Z"
 }
