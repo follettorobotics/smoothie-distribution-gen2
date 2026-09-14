@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.23.1",
+      "versionCode": 2002301,
+      "releasedAt": "2026-09-14T09:30:53Z",
+      "notes": {
+        "ko": "도어 모터 기본 속도를 300 rpm에서 250 rpm으로 낮췄습니다.\n- 도어 열기, 도어 닫기, 도어 반개방(안전가드)의 기본값이 바뀝니다. 새로 설치하는 장비에만 적용됩니다.\n- 이미 설치된 장비는 기존 값을 그대로 유지합니다. 하드웨어 설정 화면에서 기술자가 250 rpm으로 직접 바꿔 주세요.\n- 300 rpm에서는 세척 후 도어가 다시 올라올 때 간혹 끝까지 올라오지 않는 현상이 있었습니다.",
+        "en": "Door motor default speed lowered from 300 rpm to 250 rpm.\n- Changes the defaults for Door Open, Door Close and Door Half-Open (guard). Applies to new installs only.\n- Units already installed keep their stored values. A technician should set them to 250 rpm on the Hardware page.\n- At 300 rpm the door occasionally did not come back up fully after the post-clean re-open."
+      }
+    },
+    {
       "versionName": "0.23.0",
       "versionCode": 2002300,
       "releasedAt": "2026-09-14T07:45:54Z",
