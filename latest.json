@@ -1,9 +1,9 @@
 {
-  "versionCode": 2002002,
-  "versionName": "0.20.2",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.20.2/app-release.apk",
-  "sha256": "c9bbb758c209ae981bf13c69bc26664b922916c91eefe8a5da6c37168f1e4992",
+  "versionCode": 2002100,
+  "versionName": "0.21.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.21.0/app-release.apk",
+  "sha256": "c52db07c6b78e3af33f7979b9896113dfdd8dae6ef2c5b0a098af035ad59c876",
   "minVersionCode": 1,
-  "releaseNotes": "안내 문구를 읽기 쉽게 정리했습니다.\n- 청소 모드 안내(문 열림, 컵 넣기·꺼내기)가 한 문장씩 줄바꿈되어 표시됩니다.\n- 버튼과 상태 문구에서 줄표(—)로 이어 붙이던 문장을 줄바꿈으로 나눴습니다.\n- 관리자 설정의 상태·안내 문구도 같은 방식으로 정리했습니다.",
-  "releasedAt": "2026-09-11T09:07:00Z"
+  "releaseNotes": "세척 중에 다음 손님이 트레이에 컵을 올려도 트레이가 컵을 싣고 들어가지 않습니다.\n- 헹굼이 끝나도 트레이 위에 컵이 있으면 트레이가 앞에 그대로 머물고, 화면과 음성으로 컵을 치워 달라고 안내합니다.\n- 컵을 치우면 트레이가 들어가고 문이 닫히며 다음 주문을 받을 수 있습니다.\n- 트레이가 들어가는 도중에 컵이 올려진 경우에도 트레이가 다시 나와 컵을 치울 때까지 기다립니다.\n- 간단 세척, 자동 헹굼, 전체 세척 후 헹굼에도 같은 안내가 적용됩니다.",
+  "releasedAt": "2026-09-14T01:39:17Z"
 }
