@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.23.3",
+      "versionCode": 2002303,
+      "releasedAt": "2026-09-15T07:09:58Z",
+      "notes": {
+        "ko": "서비스 점검 화면과 부팅 시 안내 창의 제목을 \"서비스 점검 안내\"에서 \"서비스 점검 필요\"로 바꿨습니다.",
+        "en": "The service check lock screen and the boot notice dialog title changed from \"Service check notice\" to \"Service check required\" (Korean text only)."
+      }
+    },
+    {
       "versionName": "0.23.2",
       "versionCode": 2002302,
       "releasedAt": "2026-09-15T06:45:04Z",
