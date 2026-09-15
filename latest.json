@@ -1,9 +1,9 @@
 {
-  "versionCode": 2002301,
-  "versionName": "0.23.1",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.23.1/app-release.apk",
-  "sha256": "27797a1bafce696266f4dfd94e6bdae0969efabab2ba7d8dba5d219abcb4d138",
+  "versionCode": 2002302,
+  "versionName": "0.23.2",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.23.2/app-release.apk",
+  "sha256": "fc31a940196a17e407fbb0682deb2c68b09ff40031822fc74ade70d4a4f46fbe",
   "minVersionCode": 1,
-  "releaseNotes": "도어 모터 기본 속도를 300 rpm에서 250 rpm으로 낮췄습니다.\n- 도어 열기, 도어 닫기, 도어 반개방(안전가드)의 기본값이 바뀝니다. 새로 설치하는 장비에만 적용됩니다.\n- 이미 설치된 장비는 기존 값을 그대로 유지합니다. 하드웨어 설정 화면에서 기술자가 250 rpm으로 직접 바꿔 주세요.\n- 300 rpm에서는 세척 후 도어가 다시 올라올 때 간혹 끝까지 올라오지 않는 현상이 있었습니다.",
-  "releasedAt": "2026-09-14T09:30:53Z"
+  "releaseNotes": "고객이 주문을 시작한 뒤 자리를 떠났을 때 기기가 안전하게 대기 상태로 돌아갑니다.\n- \"아직 이용 중이신가요?\" 안내가 끝나면 트레이를 넣고 도어를 닫은 뒤 대기 화면으로 돌아갑니다. 이전에는 트레이가 나온 채로 대기 화면이 표시됐습니다.\n- 트레이에 컵이 남아 있으면 \"이용 시간이 지나 주문이 취소되었습니다\" 안내와 함께 컵을 들 때까지 기다린 뒤 도어를 닫습니다.\n- 바코드 인식 화면의 \"다시 열기\" 버튼과 제조 완료 화면의 \"문이 열리지 않았나요?\" 버튼을 없앴습니다. 2세대 기기는 도어를 자동으로 여닫으므로 필요하지 않습니다.\n- 업데이트 빌드 환경(CI) 설정을 수정했습니다.",
+  "releasedAt": "2026-09-15T06:45:04Z"
 }

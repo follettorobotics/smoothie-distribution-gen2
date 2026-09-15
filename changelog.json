@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.23.2",
+      "versionCode": 2002302,
+      "releasedAt": "2026-09-15T06:45:04Z",
+      "notes": {
+        "ko": "고객이 주문을 시작한 뒤 자리를 떠났을 때 기기가 안전하게 대기 상태로 돌아갑니다.\n- \"아직 이용 중이신가요?\" 안내가 끝나면 트레이를 넣고 도어를 닫은 뒤 대기 화면으로 돌아갑니다. 이전에는 트레이가 나온 채로 대기 화면이 표시됐습니다.\n- 트레이에 컵이 남아 있으면 \"이용 시간이 지나 주문이 취소되었습니다\" 안내와 함께 컵을 들 때까지 기다린 뒤 도어를 닫습니다.\n- 바코드 인식 화면의 \"다시 열기\" 버튼과 제조 완료 화면의 \"문이 열리지 않았나요?\" 버튼을 없앴습니다. 2세대 기기는 도어를 자동으로 여닫으므로 필요하지 않습니다.\n- 업데이트 빌드 환경(CI) 설정을 수정했습니다.",
+        "en": "The kiosk now returns to idle safely when a customer starts an order and walks away.\n- After the \"Are you still there?\" countdown the tray retracts and the door closes before the idle screen shows. Previously the idle screen appeared with the tray still out.\n- If a cup was left on the tray, the kiosk shows \"Your order was cancelled, please lift the cup\" and closes the door only after the cup is lifted.\n- Removed the \"Open again\" button on the scan screen and the \"Door did not open?\" button on the completion screen. Gen2 opens and closes the door automatically, so neither is needed.\n- Fixed the release build (CI) environment setup."
+      }
+    },
+    {
       "versionName": "0.23.1",
       "versionCode": 2002301,
       "releasedAt": "2026-09-14T09:30:53Z",
