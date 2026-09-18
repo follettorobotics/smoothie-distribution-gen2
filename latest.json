@@ -1,9 +1,9 @@
 {
-  "versionCode": 2002303,
-  "versionName": "0.23.3",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.23.3/app-release.apk",
-  "sha256": "0f169a17795c16a2a1b0c566df2be14ac2b4a6b2cde5d2b9b4cd98d81a448687",
+  "versionCode": 2002400,
+  "versionName": "0.24.0",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.24.0/app-release.apk",
+  "sha256": "932a639b61220c5286177a7ec5fc43104125861bb5647f4cd8411af3cc60c3d7",
   "minVersionCode": 1,
-  "releaseNotes": "서비스 점검 화면과 부팅 시 안내 창의 제목을 \"서비스 점검 안내\"에서 \"서비스 점검 필요\"로 바꿨습니다.",
-  "releasedAt": "2026-09-15T07:09:58Z"
+  "releaseNotes": "서비스 등록 화면에서 QR 코드를 제거했습니다. 기기 지문을 본사 관리 콘솔에 직접 입력해 등록합니다.\n앱 내부 구조를 정리했습니다.",
+  "releasedAt": "2026-09-18T01:58:19Z"
 }

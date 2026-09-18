@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.24.0",
+      "versionCode": 2002400,
+      "releasedAt": "2026-09-18T01:58:19Z",
+      "notes": {
+        "ko": "서비스 등록 화면에서 QR 코드를 제거했습니다. 기기 지문을 본사 관리 콘솔에 직접 입력해 등록합니다.\n앱 내부 구조를 정리했습니다.",
+        "en": "Removed the QR code from the service registration dialog. Staff now enter the device fingerprint in the HQ console.\nInternal code restructuring."
+      }
+    },
+    {
       "versionName": "0.23.3",
       "versionCode": 2002303,
       "releasedAt": "2026-09-15T07:09:58Z",
