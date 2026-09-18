@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.24.1",
+      "versionCode": 2002401,
+      "releasedAt": "2026-09-18T06:58:47Z",
+      "notes": {
+        "ko": "기술자 메뉴의 「레시피 단계 편집」이 제품 관리 화면을 엽니다.\n펌웨어 화면의 하드웨어 자가진단이 2세대 포트 매핑(Y축 = 모터 3)대로 원점 이동하고 센서 이름을 표시합니다.\n사용자·기술자 매뉴얼을 크게 보강했습니다(믹싱 단계, 포트 매핑, 세척, 점주 설정, 오류 코드).",
+        "en": "The technician \"Recipe steps\" row now opens the product management screen.\nThe firmware page's hardware self-test homes the axes per the gen2 port mapping (Y = motor 3) and names sensors from it.\nUser and technician manuals expanded (mixing steps, port mapping, cleaning, manager screen, error codes)."
+      }
+    },
+    {
       "versionName": "0.24.0",
       "versionCode": 2002400,
       "releasedAt": "2026-09-18T01:58:19Z",
