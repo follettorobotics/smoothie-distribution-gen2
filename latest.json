@@ -1,9 +1,9 @@
 {
-  "versionCode": 2002401,
-  "versionName": "0.24.1",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.24.1/app-release.apk",
-  "sha256": "4c398aad421d7b42161c9a6604e06d06d0bb40fbfb3bf1509c5e782b106b8d95",
+  "versionCode": 2002402,
+  "versionName": "0.24.2",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.24.2/app-release.apk",
+  "sha256": "5e32df106555d48007d171eafc0fb47ccaf21b4c7e7ee647fa4cd18ef8e5b783",
   "minVersionCode": 1,
-  "releaseNotes": "기술자 메뉴의 「레시피 단계 편집」이 제품 관리 화면을 엽니다.\n펌웨어 화면의 하드웨어 자가진단이 2세대 포트 매핑(Y축 = 모터 3)대로 원점 이동하고 센서 이름을 표시합니다.\n사용자·기술자 매뉴얼을 크게 보강했습니다(믹싱 단계, 포트 매핑, 세척, 점주 설정, 오류 코드).",
-  "releasedAt": "2026-09-18T06:58:47Z"
+  "releaseNotes": "하드웨어 포트 매핑 화면의 기본 항목 이름이 한국어 외 언어에서 영어로 표시됩니다.\n스텝 모터의 정방향/역방향 선택 버튼이 앱 언어를 따릅니다.",
+  "releasedAt": "2026-09-22T01:00:35Z"
 }

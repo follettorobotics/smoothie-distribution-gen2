@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.24.2",
+      "versionCode": 2002402,
+      "releasedAt": "2026-09-22T01:00:35Z",
+      "notes": {
+        "ko": "하드웨어 포트 매핑 화면의 기본 항목 이름이 한국어 외 언어에서 영어로 표시됩니다.\n스텝 모터의 정방향/역방향 선택 버튼이 앱 언어를 따릅니다.",
+        "en": "Default hardware port-mapping rows now show English names in every non-Korean language.\nThe step-motor forward/reverse toggle follows the app language."
+      }
+    },
+    {
       "versionName": "0.24.1",
       "versionCode": 2002401,
       "releasedAt": "2026-09-18T06:58:47Z",
