@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.24.4",
+      "versionCode": 2002404,
+      "releasedAt": "2026-09-29T01:30:41Z",
+      "notes": {
+        "ko": "전원이 꺼지거나 태블릿 시계가 초기화되어도 문제 신고용 기기 기록이 지워지지 않도록 개선했습니다.",
+        "en": "Device logs used for problem reports are now kept when the power goes off or the tablet clock resets."
+      }
+    },
+    {
       "versionName": "0.24.3",
       "versionCode": 2002403,
       "releasedAt": "2026-09-28T01:59:32Z",
