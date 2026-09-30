@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.24.5",
+      "versionCode": 2002405,
+      "releasedAt": "2026-09-30T07:33:09Z",
+      "notes": {
+        "ko": "업데이트 다운로드 중 바코드 스캐너를 연결하거나 분리해도 업데이트가 정상적으로 설치되도록 개선했습니다.\n인터넷이 다시 연결되면 보내지 못한 문제 기록을 자동으로 전송합니다.\n업데이트 확인, 다운로드, 설치 결과를 기기 기록에 남기도록 개선했습니다.\n문제 신고 시 더 많은 기기 기록이 포함되도록 개선했습니다.",
+        "en": "Updates now install correctly even if the barcode scanner is plugged in or unplugged during the download.\nProblem logs that could not be sent are now sent automatically when the internet reconnects.\nUpdate checks, downloads and installs are now recorded in the device logs.\nProblem reports now include more of the device logs."
+      }
+    },
+    {
       "versionName": "0.24.4",
       "versionCode": 2002404,
       "releasedAt": "2026-09-29T01:30:41Z",

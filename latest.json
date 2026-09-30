@@ -1,9 +1,9 @@
 {
-  "versionCode": 2002404,
-  "versionName": "0.24.4",
-  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.24.4/app-release.apk",
-  "sha256": "44a5b665acbae74a8bc0a7acb2c34e2e66513eaf5334a861a62269ce52ca328d",
+  "versionCode": 2002405,
+  "versionName": "0.24.5",
+  "apkUrl": "https://github.com/follettorobotics/smoothie-distribution-gen2/releases/download/v0.24.5/app-release.apk",
+  "sha256": "d9a4ad46aa9aa9465574247229e469fded464bbb779c4b4f60a62a3f7d3778db",
   "minVersionCode": 1,
-  "releaseNotes": "전원이 꺼지거나 태블릿 시계가 초기화되어도 문제 신고용 기기 기록이 지워지지 않도록 개선했습니다.",
-  "releasedAt": "2026-09-29T01:30:41Z"
+  "releaseNotes": "업데이트 다운로드 중 바코드 스캐너를 연결하거나 분리해도 업데이트가 정상적으로 설치되도록 개선했습니다.\n인터넷이 다시 연결되면 보내지 못한 문제 기록을 자동으로 전송합니다.\n업데이트 확인, 다운로드, 설치 결과를 기기 기록에 남기도록 개선했습니다.\n문제 신고 시 더 많은 기기 기록이 포함되도록 개선했습니다.",
+  "releasedAt": "2026-09-30T07:33:09Z"
 }
