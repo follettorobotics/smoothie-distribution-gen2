@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.25.1",
+      "versionCode": 2002501,
+      "releasedAt": "2026-10-01T09:34:04Z",
+      "notes": {
+        "ko": "점주 설정의 서빙 도어 '닫힘' 표시를 초록색으로 바꿨습니다.",
+        "en": "The serving door's \"closed\" status in owner settings is now shown in green."
+      }
+    },
+    {
       "versionName": "0.25.0",
       "versionCode": 2002500,
       "releasedAt": "2026-10-01T03:10:46Z",
