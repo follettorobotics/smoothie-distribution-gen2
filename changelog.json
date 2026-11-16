@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "versionName": "0.26.1",
+      "versionCode": 2002601,
+      "releasedAt": "2026-11-16T01:00:01Z",
+      "notes": {
+        "ko": "비밀번호 입력 화면에서 숫자 키와 지우기 키를 누르면 키 소리가 납니다.",
+        "en": "The password keypad now plays a key sound when you tap a number or the delete key."
+      }
+    },
+    {
       "versionName": "0.26.0",
       "versionCode": 2002600,
       "releasedAt": "2026-10-21T06:12:49Z",
